@@ -1,10 +1,10 @@
 <?php
 /**
- * PrestaPay
+ * zibal online gateway for PrestaPay 
  *
- * @website		Prestafa.com
- * @copyright	(c) 2017 - Prestafa Team
- * @since		30 Oct 2017
+ * @website		zibal.ir
+ * @copyright	(c) 2018 - Zibal Team
+ * @since		21 Oct 2018
  */
 
 if( !defined('_PS_VERSION_'))
